@@ -8,6 +8,7 @@ namespace TestRunProject
     public class MemberModel
     {
         public int member_id { get; set; }
+        public string email { get; set; }
         public MemberModel()
         {
 
