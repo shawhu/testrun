@@ -7,5 +7,10 @@ namespace TestRunProject
 {
     public class MemberModel
     {
+        public int member_id { get; set; }
+        public MemberModel()
+        {
+
+        }
     }
 }
